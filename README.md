@@ -1,7 +1,7 @@
 # Itron_Ignite_Contest_2017
 All deliverables related to the Itron OpenRiva Ignite Innovation Contest 2017
 ################################################################################################################################
-#                         README FILE FOR EXECUTING THE DEMO APPLICAITON TO PUSH THE DATA TO CLOUD
+#                         README FILE FOR EXECUTING THE DEMO APPLICATON TO PUSH THE DATA TO CLOUD
 #
 ################################################################################################################################
 
